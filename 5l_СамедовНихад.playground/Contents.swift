@@ -1,6 +1,3 @@
-
-
-
 protocol CarProtocol: class {
     var engine: CarNamespace.EngineState { get set }
     var windows: CarNamespace.WindowsState { get set }
